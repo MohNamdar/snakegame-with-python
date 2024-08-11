@@ -20,7 +20,7 @@ Dependencies
 Install
 -------
 ```bash
-$ pip install https://github.com/MohNamdar/snakegame-with-python
+$ git clone https://github.com/MohNamdar/snakegame-with-python
 ```
 ```bash
 $ pip install termcolor
